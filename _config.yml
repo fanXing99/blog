@@ -1,18 +1,18 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
+title: 范星的博客
+email: fan_xing_1990@sina.com
+description: 菜鸟iOS开发
 baseurl: "/blog"
-url: "http://nandomoreira.me"
+url: "https://github.com/fanXing99"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
+  name     : '范星'
+  email    : fan_xing_1990@sina.com
+  url      : https://github.com/fanXing99
   facebook : http://facebook.com/fernando.dev
   twitter  : http://twitter.com/nandomoreirame
 
-github: https://github.com/nandomoreirame/zetsu
+github: https://github.com/fanXing99
 disqus_shortname: "fernandomoreira"
 google_analytics: UA-52446115-1
 
@@ -26,7 +26,7 @@ sass:
 
 # Build settings
 markdown  : kramdown
-highlighter: rouge
+#highlighter: rouge
 
 permalink : /:title/
 
